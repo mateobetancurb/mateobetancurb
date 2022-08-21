@@ -4,7 +4,7 @@ Hi 👋 My name is Mateo
 I'm Frontend Developer
 ----------------------
 
-Since 2020 I started learning web development, my focus has been on the frontend. Specifically in Html, Css (Bootstrap and Tailwind) JavaScript and currently I'm learning React and Next. My operating system is Linux so I am very proficient using the command line.
+Since 2020 I started learning web development, my focus has been on the frontend. Specifically in Html, Css (Bootstrap and Tailwind) JavaScript, Vue and Nuxt.
 
 * 🌍  I'm based in Colombia
 * 🧠  I'm learning React and Next
