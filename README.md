@@ -1,7 +1,7 @@
 Hi 👋 My name is Mateo
 ======================
 
-FrontEnd Developer
+Front-End Developer
 ------------------
 
 ### Skills
