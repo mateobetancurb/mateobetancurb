@@ -1,4 +1,4 @@
-I'm Full Stack Developer
+Full Stack Developer
 ------------------
 
 ### Skills
