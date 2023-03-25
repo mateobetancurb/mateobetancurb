@@ -1,7 +1,7 @@
 Hi 👋 My name is Mateo
 ======================
 
-Front-End Developer
+Full Stack Developer
 ------------------
 
 ### Skills
