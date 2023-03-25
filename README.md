@@ -1,7 +1,4 @@
-Hi 👋 My name is Mateo
-======================
-
-Full Stack Developer
+I'm Full Stack Developer
 ------------------
 
 ### Skills
