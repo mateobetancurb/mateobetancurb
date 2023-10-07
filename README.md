@@ -1,4 +1,4 @@
-Full Stack Developer
+JavaScript Developer
 ------------------
 
 ### Skills
