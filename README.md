@@ -17,4 +17,4 @@ JavaScript Developer
 </p>
 
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64c05b18fcdcf9c5d50bc598?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64c05b18fcdcf9c5d50bc598?variant=dark&roadmaps=react%2Cjavascript%2Ctypescript%2Cfull-stack" alt="roadmap.sh"/></a>
