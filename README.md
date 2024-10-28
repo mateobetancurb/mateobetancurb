@@ -1,4 +1,4 @@
-JavaScript Developer
+Web Developer
 ------------------
 
 ### Skills
