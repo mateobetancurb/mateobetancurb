@@ -1,6 +1,6 @@
 Web Developer
 ------------------
-Full-stack developer with more than 4 years of experience building and optimizing high-performance web applications. Specialized in TypeScript, React, Next.js, and Node.js, with solid experience in Vue.js, PostgreSQL, MySQL, and infrastructure optimization on AWS
+Full-stack developer with 5 years of experience building and optimizing high-performance web applications. Specialized in TypeScript, React, Next.js, and Node.js, with solid experience in Vue.js, PostgreSQL, MySQL, and infrastructure optimization on AWS
 
 ### Skills
 
